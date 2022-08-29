@@ -1,1 +1,1 @@
-to-check-whether-the-tool-is-avalibale!
+to-check-whether-the-tool-is-available!
